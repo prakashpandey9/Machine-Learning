@@ -1,3 +1,3 @@
 # Machine-Learning
 
-This repository includes many tutorial codes of ML.
+This repository contains solution of all the exercises of ML course (Coursera).
